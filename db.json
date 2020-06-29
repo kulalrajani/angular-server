@@ -232,28 +232,18 @@
       "email": "rajani@gmail.com",
       "agree": true,
       "contacttype": "Email",
-      "message": "It's Great",
+      "message": "Great !!!",
       "id": 1
-    },
-    {
-      "firstname": "Rashi",
-      "lastname": "Bhat",
-      "telnum": "9865022412",
-      "email": "rashi@gmail.com",
-      "agree": false,
-      "contacttype": "None",
-      "message": "Good job",
-      "id": 2
     },
     {
       "firstname": "Raj",
       "lastname": "Kulal",
-      "telnum": "9808823562",
+      "telnum": "9535568439",
       "email": "raj@gmail.com",
-      "agree": true,
-      "contacttype": "Tel",
-      "message": "Super!!!",
-      "id": 3
+      "agree": null,
+      "contacttype": "None",
+      "message": "Good",
+      "id": 2
     }
   ]
 }
